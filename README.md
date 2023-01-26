@@ -116,9 +116,7 @@ else:
 ```
 ## Sample Input and Output
 
-
-
-
+![ELEMENT](https://user-images.githubusercontent.com/119559844/214959594-8d2fef7f-31a2-49b3-bbd1-340ba83f1b81.png)
 
 
 ## Result
